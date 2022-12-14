@@ -1,0 +1,3 @@
+/home/tiago/Desktop/Udacity_courses/3-Udp_communication/Udp_client/build/CMakeFiles/udp_client.dir
+/home/tiago/Desktop/Udacity_courses/3-Udp_communication/Udp_client/build/CMakeFiles/edit_cache.dir
+/home/tiago/Desktop/Udacity_courses/3-Udp_communication/Udp_client/build/CMakeFiles/rebuild_cache.dir
