@@ -4,4 +4,4 @@ return send feedback back, confirming the reception of each line.
 
 # To run
 To simulate the connection first lauch the server and only after launch the client. Further instructions how to build 
-the server and the client are in each README.
+the server and the client are in each README, inside 'Udp_client' and 'Udp_server'.
