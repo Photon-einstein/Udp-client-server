@@ -1,4 +1,4 @@
-# Udp-client-server-
+# Udp-client-server
 This repo depicts a udp client server connection used to upload a file from the client to the server, the client in 
 return send feedback back.
 
