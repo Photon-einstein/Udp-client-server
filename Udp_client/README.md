@@ -1,4 +1,4 @@
-## Order book
+## Udp client
 
 ## Dependencies for Running Locally
 * cmake >= 3.7
@@ -17,6 +17,6 @@
 1. Clone this repo.
 2. Make a build directory in the top level directory: `mkdir build && cd build`
 3. Compile: `cmake .. && make`
-4. Run it: `./order_book`.
+4. Run it: `./udp_client`.
 
 ## Description of the Project
