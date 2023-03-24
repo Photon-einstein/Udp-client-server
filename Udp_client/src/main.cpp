@@ -22,7 +22,7 @@ int sendDataToServer(const std::string &pathCleanInput);
 int main() {
   int statusUdpClient, statusReadFile;
   std::string pathInput = "./../input/input_file.csv", pathCleanOutput = "./../input/input_file_clean.csv";
-  statusUdpClient = sendDataToServer(pathCleanOutput);
+  statusUdpClient = sendDataToServer(pathInput);
   if (statusUdpClient != 0) {
     std::cout<<"There was an error in the function \'receiveDataFromServer\'"<<std::endl;
   }
