@@ -7,7 +7,7 @@ To simulate the connection first lauch the server and only after launch the clie
 the server and the client are in each README, inside 'Udp_client' and 'Udp_server'.
 
 # Output from Client:
-![image](https://user-images.githubusercontent.com/31144077/227664327-a832f56b-2be9-4014-9e8e-f37b96eb8b10.png)
+![Screenshot from 2023-03-25 00-04-13](https://user-images.githubusercontent.com/31144077/227664370-054f87cc-8600-4c2e-ad19-7747bc2a850f.png)
 
 # Ouput from Server:
 ![Screenshot from 2023-03-25 00-01-42](https://user-images.githubusercontent.com/31144077/227664154-f7805732-1c8a-4fcb-9628-adee8836eb40.png)
